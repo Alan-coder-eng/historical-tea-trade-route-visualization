@@ -1,3 +1,4 @@
+# -*- coding: gbk -*-
 waypoints_db = {
         # 华东-西欧航线
         ("Shanghai", "United Kingdom"): [

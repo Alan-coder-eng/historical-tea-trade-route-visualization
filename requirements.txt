@@ -10,3 +10,6 @@ torchaudio==2.6.0+cu118
 torchvision==0.21.0+cu118
 pydeck
 tqdm
+geopandas
+rtree
+shapely
